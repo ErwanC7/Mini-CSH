@@ -1,0 +1,10 @@
+# Files
+vgcore.*
+*.o
+*.gcno
+*.gcna
+*.a
+
+# Binaries
+mysh
+a.out
