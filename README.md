@@ -6,3 +6,9 @@ It can support redirection ('>'), double redirection ('>>'), sepperator (';'), e
 
 
 This project was carried out as part of my apprenticeship at EPITECH
+
+
+>## Langages & compilation
+
+* using C
+* Compiling with a Makefile (using gcc)
